@@ -19,7 +19,7 @@
             "phone"=>$Phone,
             "send_sms" => true,
             "allow_repeated_payments" =>false,
-            "redirect_url" => "http://localhost:8080/Payment-Gateway-Integration/redirect.php"
+            "redirect_url" => "https://ayushtushar.github.io/donateindia.github.io/redirect.html"
             )
         );
         $pay_url=$response['longurl'];
