@@ -19,7 +19,7 @@
             "phone"=>$Phone,
             "send_sms" => true,
             "allow_repeated_payments" =>false,
-            "redirect_url" => "https://ayushtushar.github.io/donateindia.github.io/redirect.html"
+            "redirect_url" => "https://donateindia1.000webhostapp.com/redirect.html"
             )
         );
         $pay_url=$response['longurl'];
